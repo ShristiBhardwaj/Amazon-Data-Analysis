@@ -1,4 +1,4 @@
-# Unified-Mentor-Internship
-This repository contains my internship projects made with help of power bi and dataset used to create those projects.
-Project one is Amazon sales data analysis
-Project two is Crop production analysis.
+# Amazon sales data analysis
+This repository contains amazon sales data analyis using power bi.
+It also includes the raw data that was used for analysis and to create the dashboard.
+
